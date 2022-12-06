@@ -7,4 +7,6 @@
 - ⚡ Fun fact: I love Minecraft (Haha stole this from AverageGamer590)
 - 📫 How to reach me: Penguinites#6969
 
-![](https://discord.com/users/852979622709690438 =250x250)
+```rd
+https://discord.com/users/852979622709690438
+```
