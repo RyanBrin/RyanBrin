@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Penguinites
+- 👀 I’m interested in Programming, Video Games, and Cyber Security
+- 🌱 I’m currently learning Java, Skript, Python, Visual Basic, JavaScript, and Linux
+- 📫 How to reach me Penguinites#6969
