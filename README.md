@@ -1,10 +1,10 @@
-[![wakatime](https://wakatime.com/badge/user/904ee638-45cb-4ceb-ac91-533d5cfd1075.svg)](https://wakatime.com/@904ee638-45cb-4ceb-ac91-533d5cfd1075)
+[![wakatime](https://wakatime.com/badge/user/efbea6b8-0413-406e-acdb-c0a64ccf466a.svg)](https://wakatime.com/@Penguinites)
 
 ### 👋 Hi there!
 
 - 👋 Hi, I’m @Penguinites
 - 🔭 I’m currently working on [CrystalPlus](https://discord.gg/crystalplus)
-- 👀 I’m interested in Programming, Video Games, and Cyber Security
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning Java, Skript, Python, Visual Basic, JavaScript, and Linux
 - ⚡ Fun fact: I love Minecraft (Haha stole this from AverageGamer590)
 - 📫 How to reach me: Penguinites#6969
