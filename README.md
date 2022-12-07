@@ -9,9 +9,7 @@
 - ⚡ Fun fact: I love Minecraft (Haha stole this from AverageGamer590)
 - 📫 How to reach me: Penguinites#6969
 
----
-
-    <a href="https://discord.com/users/Penguinites#6969">
-        <img alt="My discord" src="https://lanyard.cnrad.dev/api/Penguinites#6969?hideBadges=true&hideStatus=true">
+    <a href="https://discord.com/users/852979622709690438">
+        <img alt="My discord" src="https://lanyard.cnrad.dev/api/852979622709690438>
     </a>
 </p>
