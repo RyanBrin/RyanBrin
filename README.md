@@ -16,9 +16,3 @@
         <img alt="My discord" src="https://lanyard.cnrad.dev/api/553780289869185034?hideBadges=true&hideStatus=true">
     </a>
 </p>
-
-<p align="center">
-    <a href="https://github.com/Penguinites">
-        <img alt="Github" src="https://github-readme-stats.vercel.app/api/top-langs?username=Penguinites&theme=dracula&show_icons=true&hide_border=true&bg_color=0aaaff&icon_color=4e90f0&title=e74545&border_radius=10&card_width=410">
-    </a>
-</p>
