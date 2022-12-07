@@ -10,10 +10,8 @@
 - 📫 How to reach me: Penguinites#6969
 
 ---
-[![Discord Presence](https://lanyard.cnrad.dev/api/Penguinites#6969)](https://discord.com/users/Penguinites#6969)
 
-<p align="center">
-    <a href="https://discord.com/users/852979622709690438">
-        <img alt="My discord" src="https://lanyard.cnrad.dev/api/553780289869185034?hideBadges=true&hideStatus=true">
+    <a href="https://discord.com/users/Penguinites#6969">
+        <img alt="My discord" src="https://lanyard.cnrad.dev/api/Penguinites#6969?hideBadges=true&hideStatus=true">
     </a>
 </p>
