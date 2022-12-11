@@ -1,6 +1,6 @@
 [![wakatime](https://wakatime.com/badge/user/efbea6b8-0413-406e-acdb-c0a64ccf466a.svg)](https://wakatime.com/@efbea6b8-0413-406e-acdb-c0a64ccf466a)
 
-### 👋 Hi there! Go fuck yourself!!!
+### 👋 Hi there!
 
 - 👋 Hi, I’m @Penguinites
 - 🔭 I’m currently working on [CrystalPlus](https://discord.gg/crystalplus)
@@ -11,6 +11,7 @@
 
 ---
 
+
 <!--START_SECTION:waka-->
 
 ```text
@@ -19,6 +20,8 @@ Other    8 mins          ██████░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+
 
 <p align="center">
     <a href="https://discord.com/users/852979622709690438"">
