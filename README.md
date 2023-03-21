@@ -1,4 +1,4 @@
-[![wakatime](https://wakatime.com/badge/user/efbea6b8-0413-406e-acdb-c0a64ccf466a.svg)](https://wakatime.com/@efbea6b8-0413-406e-acdb-c0a64ccf466a)
+[![wakatime](https://wakatime.com/badge/github/Penguinites/Penguinites.svg)](https://wakatime.com/badge/github/Penguinites/Penguinites)
 
 ### 👋 Hi there!
 
