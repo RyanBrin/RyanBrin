@@ -2,12 +2,12 @@
 
 ### 👋 Hi there!
 
-- 👋 Hi, I’m @Penguinites
+- 👋 Hi, I’m @RyanBrin
 - 🔭 I’m currently working on [CrystalPlus](https://discord.gg/crystalplus)
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java, Skript, Python, Visual Basic, JavaScript, and Linux
-- ⚡ Fun fact: I love Minecraft (Haha stole this from AverageGamer590)
-- 📫 How to reach me: Penguinites#6969
+- 👀 I’m interested in Programming, and Networking
+- 🌱 I’m currently learning Python, Skript, and Linux
+- ⚡ Fun fact: I love Minecraft
+- 📫 How to reach me: ryan.#6942
 
 ---
 
