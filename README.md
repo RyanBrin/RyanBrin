@@ -3,11 +3,11 @@
 ### 👋 Hi there!
 
 - 👋 Hi, I’m @RyanBrin
-- 🔭 I’m currently working on [Radium]()
+- 🔭 I’m currently working on [Radium](https://discord.com/users/852979622709690438)
 - 👀 I’m interested in Programming, and Networking
 - 🌱 I’m currently learning Python, Skript, and Linux
 - ⚡ Fun fact: I love Minecraft
-- 📫 How to reach me: @ryanbrin on Discord
+- 📫 How to reach me: [@ryanbrin](https://discord.com/users/852979622709690438)
 
 ---
 
