@@ -35,7 +35,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_ryanbrin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ryanbrin" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ryanbrin./" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ryanbrin./" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ryanbrin./" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ryanbrin." height="30" width="40" /></a>
 <a href="https://discord.gg/7cJC7EBxCf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7cJC7EBxCf" height="30" width="40" /></a>
 </p>
 
