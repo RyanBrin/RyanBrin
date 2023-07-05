@@ -1,6 +1,6 @@
-[![wakatime](https://wakatime.com/badge/user/efbea6b8-0413-406e-acdb-c0a64ccf466a.svg)](https://wakatime.com/@efbea6b8-0413-406e-acdb-c0a64ccf466a)
+<h1 align="center">Hi 👋, I'm Nopox</h1>
 
-### 👋 Hi there!
+[![wakatime](https://wakatime.com/badge/user/efbea6b8-0413-406e-acdb-c0a64ccf466a.svg)](https://wakatime.com/@efbea6b8-0413-406e-acdb-c0a64ccf466a)
 
 - 👋 Hi, I’m @RyanBrin
 - 🔭 I’m currently working on [Radium](https://discord.com/users/852979622709690438)
