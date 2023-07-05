@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm RyanBrin</h1>
 
 <h3 align="center">A passionate frontend developer from North Dakota</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanbrin&label=Profile%20views&color=0e75b6&style=flat" alt="ryanbrin" /> </p>
+
 [![wakatime](https://wakatime.com/badge/user/efbea6b8-0413-406e-acdb-c0a64ccf466a.svg)](https://wakatime.com/@efbea6b8-0413-406e-acdb-c0a64ccf466a)
 
 - 👋 Hi, I’m @RyanBrin
