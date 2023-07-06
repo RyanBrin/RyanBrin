@@ -41,6 +41,23 @@
 ---
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 06 December 2022 - To: 05 July 2023
+
+Total Time: 9 hrs 21 mins
+
+HTML         6 hrs 18 mins   >>>>>>>>>>>>>>>>>--------   67.44 %
+Python       1 hr 42 mins    >>>>>--------------------   18.17 %
+CSS          54 mins         >>-----------------------   09.63 %
+Text         15 mins         >------------------------   02.79 %
+Properties   5 mins          -------------------------   00.95 %
+Other        2 mins          -------------------------   00.50 %
+Kotlin       1 min           -------------------------   00.29 %
+JavaScript   1 min           -------------------------   00.21 %
+Batchfile    0 secs          -------------------------   00.03 %
+```
+
 <!--END_SECTION:waka-->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryanbrin&show_icons=true&locale=en&layout=compact" alt="ryanbrin" /></p>
