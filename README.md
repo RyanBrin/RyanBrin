@@ -43,19 +43,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 December 2022 - To: 04 October 2023
+From: 06 December 2022 - To: 05 October 2023
 
-Total Time: 15 hrs 2 mins
+Total Time: 15 hrs 3 mins
 
-HTML           6 hrs 38 mins   >>>>>>>>>>>--------------   44.17 %
-Python         4 hrs 19 mins   >>>>>>>------------------   28.76 %
-Kotlin         2 hrs 22 mins   >>>>---------------------   15.80 %
-CSS            55 mins         >>-----------------------   06.12 %
+HTML           6 hrs 38 mins   >>>>>>>>>>>--------------   44.13 %
+Python         4 hrs 20 mins   >>>>>>>------------------   28.77 %
+Kotlin         2 hrs 22 mins   >>>>---------------------   15.78 %
+CSS            55 mins         >>-----------------------   06.11 %
 JavaScript     19 mins         >------------------------   02.12 %
-Text           15 mins         -------------------------   01.74 %
+Text           15 mins         -------------------------   01.73 %
 Properties     5 mins          -------------------------   00.59 %
+Other          3 mins          -------------------------   00.40 %
 Ezhil          3 mins          -------------------------   00.34 %
-Other          3 mins          -------------------------   00.34 %
 Batchfile      0 secs          -------------------------   00.02 %
 ```
 
