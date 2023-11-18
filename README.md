@@ -9,9 +9,9 @@
 ---
 
 - 🔭 I’m currently working on [Radium](https://discord.com/users/852979622709690438)
-- 👀 I’m interested in Programming, Networking, and Cyber Security
-- 🌱 I’m currently learning Python, Kotlin, and Linux
-- ⚡ Fun fact: I love Minecraft
+- 👀 I’m interested in Programming, Networking, Cyber Security, and Ethical Hacking
+- 🌱 I’m currently learning Python, C++, JavaScript, Kotlin, and Linux
+- ⚡ Fun fact: I love Golfing
 - 📫 How to reach me: [@ryanbrin](https://discord.com/users/852979622709690438)
 
 ---
