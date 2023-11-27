@@ -8,7 +8,7 @@
 
 ---
 
-- 🔭 I’m currently working on [Radium](https://discord.com/users/852979622709690438)
+- 🔭 I’m currently working on [Radium](https://github.com/RyanBrin/Radium)
 - 👀 I’m interested in Programming, Networking, Cyber Security, and Ethical Hacking
 - 🌱 I’m currently learning Python, C++, JavaScript, Kotlin, and Linux
 - ⚡ Fun fact: I love Golfing
