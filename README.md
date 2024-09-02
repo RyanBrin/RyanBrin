@@ -43,11 +43,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 December 2022 - To: 31 August 2024
+From: 06 December 2022 - To: 01 September 2024
 
-Total Time: 36 hrs 30 mins
+Total Time: 36 hrs 31 mins
 
-Python           18 hrs 3 mins   >>>>>>>>>>>>-------------   49.47 %
+Python           18 hrs 3 mins   >>>>>>>>>>>>-------------   49.46 %
 HTML             7 hrs 9 mins    >>>>>--------------------   19.59 %
 Kotlin           2 hrs 42 mins   >>-----------------------   07.42 %
 C++              2 hrs 3 mins    >------------------------   05.63 %
