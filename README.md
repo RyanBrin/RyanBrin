@@ -8,7 +8,7 @@
 
 ---
 
-- 🔭 I’m currently working on [AP CS A](https://apcentral.collegeboard.org/courses/ap-computer-science-a)
+- 🔭 I’m currently working on [AP CSA](https://apcentral.collegeboard.org/courses/ap-computer-science-a)
 - 👀 I’m interested in Programming, Networking, Cyber Security, and Ethical Hacking
 - 🌱 I’m currently learning Python, C++, Java, and Linux
 - ⚡ Fun fact: I love Golfing
