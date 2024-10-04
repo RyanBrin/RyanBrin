@@ -8,9 +8,9 @@
 
 ---
 
-- 🔭 I’m currently working on [Radium](https://github.com/RyanBrin/Radium)
+- 🔭 I’m currently working on [AP Computer Scicene A](https://apcentral.collegeboard.org/courses/ap-computer-science-a)
 - 👀 I’m interested in Programming, Networking, Cyber Security, and Ethical Hacking
-- 🌱 I’m currently learning Python, C++, JavaScript, Kotlin, and Linux
+- 🌱 I’m currently learning Python, C++, Java, and Linux
 - ⚡ Fun fact: I love Golfing
 - 📫 How to reach me: [@ryanbrin](https://discord.com/users/852979622709690438)
 
