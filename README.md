@@ -43,20 +43,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 December 2022 - To: 04 October 2024
+From: 06 December 2022 - To: 05 October 2024
 
-Total Time: 50 hrs 42 mins
+Total Time: 52 hrs 7 mins
 
-Python           18 hrs 3 mins   >>>>>>>>>----------------   35.62 %
-Java             14 hrs 13 mins  >>>>>>>------------------   28.06 %
-HTML             7 hrs 9 mins    >>>>---------------------   14.11 %
-Kotlin           2 hrs 42 mins   >------------------------   05.34 %
-C++              2 hrs 3 mins    >------------------------   04.05 %
-JavaScript       1 hr 31 mins    >------------------------   03.00 %
-CSS              1 hr 24 mins    >------------------------   02.79 %
-Text             1 hr 24 mins    >------------------------   02.79 %
-JSON             1 hr 6 mins     >------------------------   02.18 %
-GitIgnore file   13 mins         -------------------------   00.44 %
+Python           18 hrs 3 mins   >>>>>>>>>----------------   34.65 %
+Java             15 hrs 38 mins  >>>>>>>>-----------------   30.01 %
+HTML             7 hrs 9 mins    >>>----------------------   13.72 %
+Kotlin           2 hrs 42 mins   >------------------------   05.20 %
+C++              2 hrs 3 mins    >------------------------   03.94 %
+JavaScript       1 hr 31 mins    >------------------------   02.92 %
+CSS              1 hr 24 mins    >------------------------   02.71 %
+Text             1 hr 24 mins    >------------------------   02.71 %
+JSON             1 hr 6 mins     >------------------------   02.12 %
+GitIgnore file   13 mins         -------------------------   00.43 %
 ```
 
 <!--END_SECTION:waka-->
