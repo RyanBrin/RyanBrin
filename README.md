@@ -63,6 +63,6 @@ GitIgnore file   17 mins         -------------------------   00.43 %
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryanbrin&show_icons=true&locale=en&layout=compact" alt="ryanbrin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryanbrin&show_icons=true&locale=en" alt="ryanbrin" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanbrin&show_icons=true&theme=transparent)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ryanbrin&theme=transparent)](https://git.io/streak-stats)
