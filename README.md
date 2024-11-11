@@ -12,7 +12,7 @@
 - 👀 I’m interested in Programming, Networking, Cyber Security, and Ethical Hacking
 - 🌱 I’m currently learning Python, C++, Java, and Linux
 - ⚡ Fun fact: I love Golfing
-- 📫 How to reach me: [ryanjbrinkman@outlook.comn]()
+- 📫 How to reach me: [ryanjbrinkman@outlook.com]()
 
 ---
 
