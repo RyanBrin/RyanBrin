@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm RyanBrin</h1>
+
 <h3 align="center">A passionate frontend developer from North Dakota</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanbrin&label=Profile%20views&color=0e75b6&style=flat" alt="ryanbrin" /> </p>
+
 [![wakatime](https://wakatime.com/badge/user/efbea6b8-0413-406e-acdb-c0a64ccf466a.svg)](https://wakatime.com/@efbea6b8-0413-406e-acdb-c0a64ccf466a)
 
 ---
@@ -15,10 +17,12 @@
 ---
 
 <p align="center">
-    <a href="https://discord.com/users/852979622709690438">
+    <a href="https://discord.com/users/852979622709690438"">
         <img alt="My discord" src="https://lanyard.cnrad.dev/api/852979622709690438?hideBadges=false&hideStatus=false">
     </a>
 </p>
+
+<div align="center">
 
 ---
 
@@ -32,40 +36,31 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-    </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a> 
-    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-    </a> 
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-    </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    </a> 
-</p>
+<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </p>
 
 ---
 
-<!--START_SECTION:waka--> 
+<!--START_SECTION:waka-->
+
+```txt
+From: 06 December 2022 - To: 10 November 2024
+Total Time: 67 hrs 10 mins
+Java             29 hrs 51 mins  >>>>>>>>>>>--------------   44.44 %
+Python           18 hrs 36 mins  >>>>>>>------------------   27.71 %
+HTML             7 hrs 9 mins    >>>----------------------   10.65 %
+Kotlin           2 hrs 42 mins   >------------------------   04.03 %
+C++              2 hrs 3 mins    >------------------------   03.06 %
+JavaScript       1 hr 31 mins    >------------------------   02.26 %
+CSS              1 hr 24 mins    >------------------------   02.11 %
+Text             1 hr 24 mins    >------------------------   02.10 %
+JSON             1 hr 6 mins     -------------------------   01.64 %
+GitIgnore file   17 mins         -------------------------   00.43 %
 ```
-txt From: 06 December 2022 - To: 10 November 2024 Total Time: 67 hrs 10 mins Java 29 hrs 51 mins >>>>>>>>>>>-------------- 44.44 % Python 18 hrs 36 mins >>>>>>>------------------ 27.71 % HTML 7 hrs 9 mins >>>---------------------- 10.65 % Kotlin 2 hrs 42 mins >------------------------ 04.03 % C++ 2 hrs 3 mins >------------------------ 03.06 % JavaScript 1 hr 31 mins >------------------------ 02.26 % CSS 1 hr 24 mins >------------------------ 02.11 % Text 1 hr 24 mins >------------------------ 02.10 % JSON 1 hr 6 mins ------------------------- 01.64 % GitIgnore file 17 mins ------------------------- 00.43 %
-```
+
 <!--END_SECTION:waka-->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ryanbrin&show_icons=true&locale=en&layout=compact&theme=transparent&include_all_commits=true)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanbrin&show_icons=true&theme=transparent&count_private=true&hide=issues&line_height=24&hide_title=true&include_all_commits=true&rank_icon=github&custom_title=Ryan's%20GitHub%20Stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ryanbrin&theme=transparent)](https://git.io/streak-stats)
