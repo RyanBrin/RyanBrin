@@ -59,8 +59,8 @@ GitIgnore file   17 mins         -------------------------   00.43 %
 
 <!--END_SECTION:waka-->
 
-[![Ryan's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ryanbrin&theme=transparent)](https://wakatime.com/@ryanbrin)
+[![Ryan's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ryanbrin&theme=blueberry)](https://wakatime.com/@ryanbrin)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanbrin&show_icons=true&theme=transparent&count_private=true&hide=issues&line_height=24&hide_title=true&include_all_commits=true&rank_icon=github&custom_title=Ryan's%20GitHub%20Stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanbrin&show_icons=true&theme=blueberry&count_private=true&hide=issues&line_height=24&hide_title=true&include_all_commits=true&rank_icon=github&custom_title=Ryan's%20GitHub%20Stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ryanbrin&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ryanbrin&theme=blueberry)](https://git.io/streak-stats)
