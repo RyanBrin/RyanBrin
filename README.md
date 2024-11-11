@@ -65,4 +65,4 @@ GitIgnore file   17 mins         -------------------------   00.43 %
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryanbrin&show_icons=true&locale=en" alt="ryanbrin" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryanbrin&" alt="ryanbrin" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ryanbrin&theme=react)](https://git.io/streak-stats)
