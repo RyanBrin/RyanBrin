@@ -63,6 +63,6 @@ GitIgnore file   17 mins         -------------------------   00.43 %
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryanbrin&show_icons=true&locale=en&layout=compact" alt="ryanbrin" /></p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanbrin&show_icons=true&theme=transparent&count_private=true&hide=issues&line_height=24&hide_title=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanbrin&show_icons=true&theme=transparent&count_private=true&hide=issues&line_height=24&hide_title=true&include_all_commits=true&rank_icon=github&custom_title=Ryan's%20GitHub%20Stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ryanbrin&theme=transparent)](https://git.io/streak-stats)
