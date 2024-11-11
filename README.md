@@ -59,7 +59,7 @@ GitIgnore file   17 mins         -------------------------   00.43 %
 
 <!--END_SECTION:waka-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ryanbrin&show_icons=true&locale=en&layout=compact&theme=transparent&include_all_commits=true)
+[![Ryan's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ryanbrin&theme=transparent)](https://wakatime.com/@ryanbrin)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanbrin&show_icons=true&theme=transparent&count_private=true&hide=issues&line_height=24&hide_title=true&include_all_commits=true&rank_icon=github&custom_title=Ryan's%20GitHub%20Stats)
 
