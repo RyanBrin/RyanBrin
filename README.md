@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate frontend developer from North Dakota</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanbrin&label=Profile%20views&color=0e75b6&style=flat" alt="ryanbrin" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanbrin&label=Profile%20views&color=0e75b6&style=flat" alt="ryanbrin"/> </p>
 
 [![wakatime](https://wakatime.com/badge/user/efbea6b8-0413-406e-acdb-c0a64ccf466a.svg)](https://wakatime.com/@efbea6b8-0413-406e-acdb-c0a64ccf466a)
 
@@ -41,7 +41,7 @@
 ---
 
 <!--START_SECTION:waka-->
-
+<!--
 ```txt
 From: 06 December 2022 - To: 12 November 2024
 
@@ -58,7 +58,7 @@ Text             1 hr 24 mins    >------------------------   02.09 %
 JSON             1 hr 6 mins     -------------------------   01.63 %
 CLASS            19 mins         -------------------------   00.48 %
 ```
-
+-->
 <!--END_SECTION:waka-->
 
 [![Ryan's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ryanbrin&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://wakatime.com/@ryanbrin)
