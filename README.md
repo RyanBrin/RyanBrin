@@ -41,24 +41,24 @@
 ---
 
 <!--START_SECTION:waka-->
-<!--
+
 ```txt
-From: 06 December 2022 - To: 12 November 2024
+From: 06 December 2022 - To: 13 November 2024
 
-Total Time: 67 hrs 43 mins
+Total Time: 69 hrs 32 mins
 
-Java             30 hrs 12 mins  >>>>>>>>>>>--------------   44.61 %
-Python           18 hrs 36 mins  >>>>>>>------------------   27.49 %
-HTML             7 hrs 9 mins    >>>----------------------   10.56 %
-Kotlin           2 hrs 42 mins   >------------------------   04.00 %
-C++              2 hrs 3 mins    >------------------------   03.04 %
-JavaScript       1 hr 31 mins    >------------------------   02.25 %
-CSS              1 hr 24 mins    >------------------------   02.09 %
-Text             1 hr 24 mins    >------------------------   02.09 %
-JSON             1 hr 6 mins     -------------------------   01.63 %
-CLASS            19 mins         -------------------------   00.48 %
+Java             32 hrs 1 min    >>>>>>>>>>>>-------------   46.06 %
+Python           18 hrs 36 mins  >>>>>>>------------------   26.77 %
+HTML             7 hrs 9 mins    >>>----------------------   10.29 %
+Kotlin           2 hrs 42 mins   >------------------------   03.90 %
+C++              2 hrs 3 mins    >------------------------   02.96 %
+JavaScript       1 hr 31 mins    >------------------------   02.19 %
+CSS              1 hr 24 mins    >------------------------   02.03 %
+Text             1 hr 24 mins    >------------------------   02.03 %
+JSON             1 hr 6 mins     -------------------------   01.59 %
+CLASS            19 mins         -------------------------   00.47 %
 ```
--->
+
 <!--END_SECTION:waka-->
 
 [![Ryan's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ryanbrin&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://wakatime.com/@ryanbrin)
