@@ -31,6 +31,9 @@
 <a href="https://twitter.com/_ryanbrin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ryanbrin" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/28287490/ryan-brinkman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ryan-brinkman" height="30" width="40"/></a>
 <a href="https://discord.com/users/852979622709690438" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="852979622709690438" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ryan-brinkman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryan-brinkman" height="30" width="40" /></a>
+<a href="https://fb.com/ryanbrin08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ryanbrin08" height="30" width="40" /></a>
+<a href="https://instagram.com/ryanbrin08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ryanbrin08" height="30" width="40" /></a>
 </p>
 
 ---
