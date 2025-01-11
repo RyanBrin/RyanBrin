@@ -46,12 +46,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 December 2022 - To: 09 January 2025
+From: 06 December 2022 - To: 10 January 2025
 
-Total Time: 92 hrs 17 mins
+Total Time: 92 hrs 19 mins
 
-Java             53 hrs 30 mins  >>>>>>>>>>>>>>-----------   57.97 %
-Python           18 hrs 53 mins  >>>>>--------------------   20.47 %
+Java             53 hrs 30 mins  >>>>>>>>>>>>>>-----------   57.95 %
+Python           18 hrs 56 mins  >>>>>--------------------   20.51 %
 HTML             7 hrs 9 mins    >>-----------------------   07.75 %
 Kotlin           2 hrs 42 mins   >------------------------   02.94 %
 C++              2 hrs 3 mins    >------------------------   02.23 %
