@@ -8,7 +8,7 @@
 
 ---
 
-- 📚 Studying [Cybersecurity and Computer Networks](https://bismarckstate.edu/academics/programs/computersupport/)
+- 🎓 Currently studying [Cybersecurity and Computer Networks](https://bismarckstate.edu/academics/programs/computersupport/)
 - 👀 I’m interested in Programming, Networking, Cyber Security, and Ethical Hacking
 - 🌱 I’m currently learning Python, C++, Java, and Linux
 - ⚡ Fun fact: I love Golfing
