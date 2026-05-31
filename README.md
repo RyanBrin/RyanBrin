@@ -13,7 +13,7 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=ryanbrin&label=Profile+Views&color=58a6ff&style=flat-square" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=ryanbrin&label=Profile+Views&color=58a6ff&style=flat-square"/>
   &nbsp;
   <img src="https://wakatime.com/badge/user/efbea6b8-0413-406e-acdb-c0a64ccf466a.svg" alt="wakatime"/>
 </p>
@@ -103,22 +103,21 @@ Currently deep in Cybersecurity & Networking coursework. Expect CTF writeups, ne
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ryanbrin&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=issues&include_all_commits=true&rank_icon=github"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanbrin&layout=compact&theme=github_dark&hide_border=true&langs_count=6"/>
+<img height="165" src="https://github-stats-alpha.vercel.app/api?username=ryanbrin&cc=0d1117&tc=58a6ff&ic=58a6ff&bc=30363d"/>
+
+<br/><br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ryanbrin&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ryanbrin&theme=github-dark-blue&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ryanbrin&theme=github_dark&hide_border=true&layout=compact"/>
+<img src="https://wakatime.com/share/@efbea6b8-0413-406e-acdb-c0a64ccf466a/5b0f8e5e-7b1a-4e1e-bc02-8e0e8e7b1a4e.svg" width="500" alt="WakaTime Activity"/>
 
 </div>
 
 ---
 
-## 🟢 Presence
+## 🟢 Discord Presence
 
 <div align="center">
 
