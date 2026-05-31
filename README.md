@@ -118,7 +118,7 @@ Currently deep in Cybersecurity & Networking coursework. Expect CTF writeups, ne
 
 ---
 
-## 🟢 Discord Presence
+## 🟢 Presence
 
 <div align="center">
 
