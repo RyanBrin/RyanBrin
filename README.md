@@ -111,8 +111,6 @@ Currently deep in Cybersecurity & Networking coursework. Expect CTF writeups, ne
 
 <br/>
 
-<img src="https://wakatime.com/share/@efbea6b8-0413-406e-acdb-c0a64ccf466a/5b0f8e5e-7b1a-4e1e-bc02-8e0e8e7b1a4e.svg" width="500" alt="WakaTime Activity"/>
-
 </div>
 
 ---
