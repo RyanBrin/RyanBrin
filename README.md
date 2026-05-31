@@ -12,8 +12,11 @@
   <a href="mailto:ryanjbrinkman@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=ryanbrin&label=Profile+Views&color=58a6ff&style=flat-square" alt="profile views"/>
-[![wakatime](https://wakatime.com/badge/user/efbea6b8-0413-406e-acdb-c0a64ccf466a.svg?style=flat-square)](https://wakatime.com/@efbea6b8-0413-406e-acdb-c0a64ccf466a)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=ryanbrin&label=Profile+Views&color=58a6ff&style=flat-square" alt="profile views"/>
+  &nbsp;
+  <img src="https://wakatime.com/badge/user/efbea6b8-0413-406e-acdb-c0a64ccf466a.svg" alt="wakatime"/>
+</p>
 
 </div>
 
@@ -100,29 +103,34 @@ Currently deep in Cybersecurity & Networking coursework. Expect CTF writeups, ne
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ryanbrin&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true&hide=issues&hide_title=true&include_all_commits=true&rank_icon=github&border_color=30363d"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanbrin&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&langs_count=6&hide=html"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ryanbrin&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=issues&include_all_commits=true&rank_icon=github"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanbrin&layout=compact&theme=github_dark&hide_border=true&langs_count=6"/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ryanbrin&theme=github-dark-blue&border=30363d)](https://git.io/streak-stats)
+<br/>
 
-[![Ryan's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ryanbrin&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&layout=compact)](https://wakatime.com/@ryanbrin)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ryanbrin&theme=github-dark-blue&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ryanbrin&theme=github_dark&hide_border=true&layout=compact"/>
 
 </div>
 
 ---
 
-## ⏱️ Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
+## 🟢 Discord Presence
 
 <div align="center">
 
 <a href="https://discord.com/users/852979622709690438">
   <img src="https://lanyard.cnrad.dev/api/852979622709690438?hideBadges=false&hideStatus=false" alt="Discord presence"/>
 </a>
+
+</div>
+
+---
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1a3a5c,100:0d1117&height=100&section=footer" width="100%"/>
 
