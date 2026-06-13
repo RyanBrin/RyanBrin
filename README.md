@@ -46,7 +46,7 @@ ryan = {
 ## Featured Projects
 
 ### 🤖 [Hermes Trading Bot](https://github.com/RyanBrin/hermes-trading)
-Autonomous **paper trading** agent for stocks and BTC/USD. Scans 30+ stocks using Elliott Wave + Fibonacci retracement analysis, scores setups with RSI/volume/resistance confluence, and applies dynamic ATR-based stops. Includes market-hours awareness, a real-time web dashboard, and an open paper-position audit view.
+Autonomous **paper trading** agent for BTC/USD and stocks. Trades BTC using Elliott Wave + Fibonacci analysis via Kraken, and scans a 30-ticker stock watchlist for swing-trade setups using the same framework. AI reflection (Claude) reviews batches of trades to evolve strategy over time. Includes a phase gate that requires proven statistical edge before any live trading can be enabled, and a real-time 8-tab web dashboard.
 
 > ⚠️ Paper trading only. Not financial advice. Educational/experimental project.
 
@@ -69,9 +69,9 @@ Backend service connecting the Android app to real financial data via Plaid. Han
 ---
 
 ### 📅 [Work Schedule Sync](https://github.com/RyanBrin/work-schedule-sync)
-Google Apps Script that auto-syncs two work schedules (Pebble Creek + Best Buy) into Google Calendar. Best Buy schedule screenshots are parsed automatically using Claude Haiku OCR — drop a screenshot in a Drive folder and shifts appear on the calendar.
+Google Apps Script that auto-syncs two work schedules (Pebble Creek + Best Buy) into Google Calendar. Best Buy shifts are copied from BBY Connect using a bookmarklet, pasted into a lightweight web app, and parsed with a fully deterministic text parser — no screenshots, no OCR, no AI required.
 
-`Google Apps Script` · `Claude Haiku` · `Drive API` · `Calendar API`
+`Google Apps Script` · `Calendar API` · `HtmlService`
 
 ---
 
