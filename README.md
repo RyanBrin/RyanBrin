@@ -19,7 +19,7 @@
 
 ## About Me
 
-I'm a **Cybersecurity & Computer Networks** student at Bismarck State College building real projects to develop my skills. I focus on practical, working software rather than tutorials — everything in my repos runs.
+I'm a **Cybersecurity & Computer Networks** student at Bismarck State College building real projects to develop my skills. I focus on learning through practical software rather than tutorials alone.
 
 ```python
 ryan = {
@@ -55,21 +55,21 @@ Autonomous **paper trading** agent for BTC/USD and stocks. Trades BTC using Elli
 ---
 
 ### 📱 [Nexus Android App](https://github.com/RyanBrin/dashboard-app)
-Personal command-center Android app — calendar with push reminders, work shift tracking for two jobs, budget/expense management, live trading data from Hermes, and bank account access via Plaid.
+Personal command-center Android app—calendar with reminders, work-shift tracking, budget/expense views, Hermes paper-trading data, and a Plaid sandbox integration.
 
 `Kotlin` · `Jetpack Compose` · `Room` · `Retrofit` · `WorkManager`
 
 ---
 
 ### 🏦 [Nexus API](https://github.com/RyanBrin/dashboard-api)
-Backend service connecting the Android app to real financial data via Plaid. Handles account linking, live balances, transaction history, and Fidelity investment holdings. Credentials stay server-side.
+Backend service connecting the Android app to Plaid sandbox workflows. Handles account linking, balances, transaction history, and investment holdings while keeping provider credentials server-side.
 
 `Python` · `FastAPI` · `Plaid SDK` · `Supabase` · `Railway`
 
 ---
 
 ### 📅 [Work Schedule Sync](https://github.com/RyanBrin/work-schedule-sync)
-Google Apps Script that auto-syncs two work schedules (Pebble Creek + Best Buy) into Google Calendar. Best Buy shifts are copied from BBY Connect using a bookmarklet, pasted into a lightweight web app, and parsed with a fully deterministic text parser — no screenshots, no OCR, no AI required.
+Google Apps Script that synchronizes two work-schedule sources into Google Calendar. Copied schedule text is parsed with a deterministic parser—no screenshots, OCR, or AI required.
 
 `Google Apps Script` · `Calendar API` · `HtmlService`
 
