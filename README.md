@@ -43,41 +43,54 @@ ryan = {
 
 ---
 
-## Featured Projects
+## Projects
 
-### 🤖 [Hermes Trading Bot](https://github.com/RyanBrin/hermes-trading)
-Autonomous **paper trading** agent for BTC/USD and stocks. Trades BTC using Elliott Wave + Fibonacci analysis via Kraken, and scans a 30-ticker stock watchlist for swing-trade setups using the same framework. AI reflection (Claude) reviews batches of trades to evolve strategy over time. Includes a phase gate that requires proven statistical edge before any live trading can be enabled, and a real-time 8-tab web dashboard.
+A few personal projects I've built to learn by doing. The full source is kept
+**private**; each link below is a public overview — architecture, features, and
+security posture, with sanitized examples only.
 
-> ⚠️ Paper trading only. Not financial advice. Educational/experimental project.
+### 🤖 [Hermes Trading](https://github.com/RyanBrin/hermes-trading-demo)
+Private market-research & **paper-trading** system. Monitors markets and exercises
+strategy ideas in simulation, with risk controls and a phase gate before any live
+mode. Clear separation of crypto vs. stock logic; options work is research-only.
 
-`Python` · `FastAPI` · `Supabase` · `Railway` · `ccxt (Kraken)` · `yfinance` · `Claude AI`
+> Paper/research only. Not financial advice.
 
----
-
-### 📱 [Nexus Android App](https://github.com/RyanBrin/dashboard-app)
-Personal command-center Android app—calendar with reminders, work-shift tracking, budget/expense views, Hermes paper-trading data, and a Plaid sandbox integration.
-
-`Kotlin` · `Jetpack Compose` · `Room` · `Retrofit` · `WorkManager`
-
----
-
-### 🏦 [Nexus API](https://github.com/RyanBrin/dashboard-api)
-Backend service connecting the Android app to Plaid sandbox workflows. Handles account linking, balances, transaction history, and investment holdings while keeping provider credentials server-side.
-
-`Python` · `FastAPI` · `Plaid SDK` · `Supabase` · `Railway`
+`Python` · paper-trading · risk controls
 
 ---
 
-### 📅 [Work Schedule Sync](https://github.com/RyanBrin/work-schedule-sync)
-Google Apps Script that synchronizes two work-schedule sources into Google Calendar. Copied schedule text is parsed with a deterministic parser—no screenshots, OCR, or AI required.
+### 🛡️ [LAN Monitor](https://github.com/RyanBrin/lan-monitor-demo)
+Private Raspberry Pi network-inventory appliance. Builds a **passive** device
+inventory from the neighbor/ARP cache and serves a **loopback-only** dashboard over
+an SSH tunnel — no port/vulnerability scanning, no public exposure.
 
-`Google Apps Script` · `Calendar API` · `HtmlService`
+`Python` · Linux · Raspberry Pi · networking
 
 ---
 
-### 🗂️ Language Practice Repos
-Small collections of practice projects and exercises as I learn:
-[C++](https://github.com/RyanBrin/cpp) · [Python](https://github.com/RyanBrin/python) · [Java](https://github.com/RyanBrin/java) · [HTML/CSS](https://github.com/RyanBrin/html) · [Visual Basic](https://github.com/RyanBrin/visual-basic)
+### 🗂️ [Nexus](https://github.com/RyanBrin/nexus-demo)
+Private personal "command center" that ties my local tools and companion services
+into a single project map / dashboard. Local-first; private data stays on the host.
+
+`Python` · local services · dashboards
+
+---
+
+### 📱 [Personal Dashboard](https://github.com/RyanBrin/dashboard-demo)
+Private Android app + backend API presenting finance, work, calendar, and
+trading-research panels. Credentials stay server-side; no real data in the public
+overview.
+
+`Kotlin` · `Python` · Android · APIs
+
+---
+
+### 📅 [Work Schedule Sync](https://github.com/RyanBrin/work-schedule-sync-demo)
+Private automation that parses a personal work schedule and syncs shifts to a
+calendar, with optional concise shift summaries.
+
+`Google Apps Script` · Calendar API · automation
 
 ---
 
