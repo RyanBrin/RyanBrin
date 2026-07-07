@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1a2e,100:0AAAFF&height=200&section=header&text=Ryan%20Brinkman&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%7C%20Backend%20%26%20Systems%20%7C%20North%20Dakota&descSize=16&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1a2e,100:0AAAFF&height=200&section=header&text=Ryan%20Brinkman&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%7C%20Backend%20%26%20Systems%20%7C%20North%20Dakota&descSize=16&descAlignY=60&animation=fadeIn&reversal=false" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=0AAAFF&center=true&vCenter=true&width=640&lines=Cybersecurity+%26+Computer+Networks+student;I+ship+real+systems+to+learn+by+building;Python+%7C+Kotlin+%7C+Java+%7C+C%2B%2B;FastAPI+%7C+Postgres+%7C+Linux+%7C+Automation)](https://github.com/RyanBrin)
 
