@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1a2e,100:0AAAFF&height=200&section=header&text=Ryan%20Brinkman&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%7C%20Backend%20%26%20Systems%20%7C%20North%20Dakota&descSize=16&descAlignY=60&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=0AAAFF&center=true&vCenter=true&width=640&lines=Cybersecurity+%26+Computer+Networks+student;I+ship+real+systems+to+learn+by+building;Python+%7C+Kotlin+%7C+Java+%7C+C%2B%2B;FastAPI+%7C+Postgres+%7C+Linux+%7C+Automation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=0AAAFF&center=true&vCenter=true&width=640&lines=Cybersecurity+%26+Computer+Networks+student;I+ship+real+systems+to+learn+by+building;Python+%7C+Kotlin+%7C+Java+%7C+C%2B%2B;FastAPI+%7C+Postgres+%7C+Linux+%7C+Automation)](https://github.com/RyanBrin)
 
 <p>
   <a href="https://discord.com/users/852979622709690438"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
@@ -124,12 +124,11 @@ and Visual Basic.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ryanbrin&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=issues&include_all_commits=true&rank_icon=github"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanbrin&layout=compact&theme=github_dark&hide_border=true&langs_count=6"/>
+[![Followers](https://img.shields.io/github/followers/RyanBrin?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=0AAAFF&labelColor=0d1117)](https://github.com/RyanBrin?tab=followers)
+[![Nexus stars](https://img.shields.io/github/stars/RyanBrin/nexus-demo?style=for-the-badge&logo=github&logoColor=white&label=Nexus%20stars&color=0AAAFF&labelColor=0d1117)](https://github.com/RyanBrin/nexus-demo)
+[![Nexus updated](https://img.shields.io/github/last-commit/RyanBrin/nexus-demo?style=for-the-badge&logo=git&logoColor=white&label=Nexus%20updated&color=0AAAFF&labelColor=0d1117)](https://github.com/RyanBrin/nexus-demo)
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ryanbrin&theme=github-dark-blue&hide_border=true"/>
+<sub>Most of my work lives in private repos &mdash; the <code>*-demo</code> repos above are public windows into it.</sub>
 
 </div>
 
