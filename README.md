@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1a2e,100:0AAAFF&height=200&section=header&text=Ryan%20Brinkman&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%7C%20Software%20Dev%20%7C%20North%20Dakota&descSize=16&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1a2e,100:0AAAFF&height=200&section=header&text=Ryan%20Brinkman&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%7C%20Backend%20%26%20Systems%20%7C%20North%20Dakota&descSize=16&descAlignY=60&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=0AAAFF&center=true&vCenter=true&width=620&lines=Cybersecurity+%26+Computer+Networks+student;Building+real+projects+to+learn+by+doing;Python+%7C+Kotlin+%7C+Java+%7C+C%2B%2B;Networking+%7C+Linux+%7C+Automation+%7C+Security)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=0AAAFF&center=true&vCenter=true&width=640&lines=Cybersecurity+%26+Computer+Networks+student;I+ship+real+systems+to+learn+by+building;Python+%7C+Kotlin+%7C+Java+%7C+C%2B%2B;FastAPI+%7C+Postgres+%7C+Linux+%7C+Automation)](https://git.io/typing-svg)
 
 <p>
   <a href="https://discord.com/users/852979622709690438"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
@@ -17,84 +17,74 @@
 
 ---
 
-## About Me
+## About me
 
-I'm a **Cybersecurity & Computer Networks** student at Bismarck State College building real projects to develop my skills. I focus on learning through practical software rather than tutorials alone.
+I'm a **Cybersecurity & Computer Networks** student at Bismarck State College who
+learns by building things that actually run in production. Instead of tutorials, I
+ship real systems — a multi-user trading platform, a Raspberry Pi network monitor, an
+automation bridge — and let the hard parts (auth, persistence, safety, deployment)
+teach me.
 
 ```python
 ryan = {
     "location":   "Bismarck, North Dakota",
     "education":  "Cybersecurity & Computer Networks — Bismarck State College",
-    "interests":  ["Networking", "Linux", "Security", "Automation", "Backend Dev"],
-    "building":   "Nexus — personal command center with trading, banking, and scheduling tools",
-    "approach":   "Learn by building things that actually work",
+    "focus":      ["Networking", "Linux", "Security", "Backend", "Automation"],
+    "building":   "Nexus — a paper-first, multi-user finance & trading platform",
+    "principle":  "If it doesn't run in production, I haven't really learned it yet",
 }
 ```
 
----
-
-## Current Focus
-
-- 📡 **Networking & Linux** — routing, subnetting, system administration, shell scripting
-- 🔐 **Security fundamentals** — threat detection, secure systems, network defense concepts
-- 🤖 **Automation** — Python scripting, Google Apps Script, background workers
-- 📱 **Android development** — Kotlin, Jetpack Compose, building personal apps
-- 📊 **Data pipelines** — connecting APIs, processing data, storing it reliably
+> Most of my source is private. The **`*-demo` repos below are public overviews** of
+> those projects — architecture and design, no secrets or real data.
 
 ---
 
-## Projects
+## Featured projects
 
-A few personal projects I've built to learn by doing. The full source is kept
-**private**; each link below is a public overview — architecture, features, and
-security posture, with sanitized examples only.
+### 🛰️ [Nexus](https://github.com/RyanBrin/nexus-demo) &nbsp;·&nbsp; *flagship*
+A **multi-user, paper-first finance & trading platform** — FastAPI + a vanilla-JS app,
+deployed on Railway. Per-user accounts, autonomous **paper** trading engines, a unified
+portfolio view, a finances ledger, plans/billing scaffolding, and an admin operator
+layer. Built with real auth (HMAC sessions, opt-in 2FA), Postgres durability, and a
+hard safety rule: **live trading is off everywhere by default.**
 
-### 🤖 [Hermes Trading](https://github.com/RyanBrin/hermes-trading-demo)
-Private market-research & **paper-trading** system. Monitors markets and exercises
-strategy ideas in simulation, with risk controls and a phase gate before any live
-mode. Clear separation of crypto vs. stock logic; options work is research-only.
+`Python` · `FastAPI` · `Postgres` · `Railway` · `Anthropic API` · `vanilla JS`
 
-> Paper/research only. Not financial advice.
+### 📈 [Hermes](https://github.com/RyanBrin/hermes-trading-demo) &nbsp;·&nbsp; *the engine inside Nexus*
+The market-research and **paper-trading** engine that powers Nexus. Elliott Wave +
+Fibonacci analysis over a unified crypto engine (BTC/ETH/SOL) and a stock scanner, with
+a hardcoded risk firewall, decision logging, and AI-assisted strategy reflection.
+Paper-only by design.
 
-`Python` · paper-trading · risk controls
+`Python` · `ccxt (Kraken)` · `Elliott Wave / Fibonacci` · `risk gating`
 
----
+### 📡 [LAN Monitor](https://github.com/RyanBrin/lan-monitor-demo)
+A **Raspberry Pi network-monitoring appliance** — discovers devices on the LAN, tracks
+identity over time, and sends scheduled reports and alerts. Loopback-only dashboard,
+privacy-first.
 
-### 🛡️ [LAN Monitor](https://github.com/RyanBrin/lan-monitor-demo)
-Private Raspberry Pi network-inventory appliance. Builds a **passive** device
-inventory from the neighbor/ARP cache and serves a **loopback-only** dashboard over
-an SSH tunnel — no port/vulnerability scanning, no public exposure.
-
-`Python` · Linux · Raspberry Pi · networking
-
----
-
-### 🗂️ [Nexus](https://github.com/RyanBrin/nexus-demo)
-Private personal "command center" that ties my local tools and companion services
-into a single project map / dashboard. Local-first; private data stays on the host.
-
-`Python` · local services · dashboards
-
----
-
-### 📱 [Personal Dashboard](https://github.com/RyanBrin/dashboard-demo)
-Private Android app + backend API presenting finance, work, calendar, and
-trading-research panels. Credentials stay server-side; no real data in the public
-overview.
-
-`Kotlin` · `Python` · Android · APIs
-
----
+`Python` · `Linux` · `networking` · `systemd / cron`
 
 ### 📅 [Work Schedule Sync](https://github.com/RyanBrin/work-schedule-sync-demo)
-Private automation that parses a personal work schedule and syncs shifts to a
-calendar, with optional concise shift summaries.
+A **Google Apps Script** that parses copied work-schedule text and syncs it into Google
+Calendar — a deterministic parser, no screenshots, OCR, or AI required.
 
-`Google Apps Script` · Calendar API · automation
+`Google Apps Script` · `Calendar API`
+
+### 📱 [Personal Dashboard App](https://github.com/RyanBrin/dashboard-demo)
+An Android command-center experiment (Kotlin / Jetpack Compose) — calendar, budgets,
+and trading data in one place. Now superseded by the Nexus web platform.
+
+`Kotlin` · `Jetpack Compose`
+
+### 🗂️ Language practice
+Private repos of small exercises as I pick up languages — C++, Python, Java, HTML/CSS,
+and Visual Basic.
 
 ---
 
-## Skills & Tools
+## Skills & tools
 
 **Languages**
 
@@ -106,31 +96,31 @@ calendar, with optional concise shift summaries.
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-**Platforms & Tools**
+**Backend & platform**
 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 
 ---
 
-## Currently Learning
+## What I'm learning
 
-| Area | What I'm working on |
+| Area | Working on |
 |---|---|
 | Networking | Subnetting, routing protocols, packet analysis |
-| Linux | System admin, file permissions, shell scripting |
-| Security | Threat detection concepts, secure configurations |
-| Cloud | Deploying and managing services (currently using Railway) |
+| Linux | System administration, permissions, shell scripting |
+| Security | Threat detection concepts, secure configuration, auth design |
+| Cloud | Deploying and operating services (Railway, Postgres) |
 | APIs | REST design, authentication, integrating third-party services |
 
 ---
 
-## GitHub Stats
+## GitHub stats
 
 <div align="center">
 
@@ -141,16 +131,6 @@ calendar, with optional concise shift summaries.
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ryanbrin&theme=github-dark-blue&hide_border=true"/>
 
-</div>
-
----
-
-## Discord Presence
-
-<div align="center">
-<a href="https://discord.com/users/852979622709690438">
-  <img src="https://lanyard.cnrad.dev/api/852979622709690438?hideBadges=false" alt="Discord presence"/>
-</a>
 </div>
 
 ---
